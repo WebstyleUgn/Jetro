@@ -1,0 +1,15 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+body {
+    background-color: #3e4d1e;
+}
+
+header {
+    background-color: red;
+}
